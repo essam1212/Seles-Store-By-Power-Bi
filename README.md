@@ -77,10 +77,4 @@ The dashboard provides a comprehensive overview of business performance with det
 ---
 
 ## 📎 Project Type
-*Personal Learning Project | Data Analytics & Visualization Practice*
-
----
-
-## 🔗 Repository Overview
-This repository includes screenshots and documentation of the dashboard built using **Microsoft Power BI**.  
-> *(Data used is sample/simulated for learning purposes.)*
+*Personal Learning Project | Data Analytics & Visualization 
